@@ -1,7 +1,7 @@
 ## Project Statement:
 
 
-Relying on manual processes, paper records, or basic spreadsheets to manage bank accounts is typically slow, vulnerable to human error, and tough to properly audit. Routine actions like setting up a new account, making deposits, withdrawing cash, or viewing a balance, require a more reliable approach. 
+Relying on manual processes, paper records, or basic spreadsheets to manage bank accounts is typically slow, vulnerable to human error, and tough to properly audit. Routine actions like setting up a new account, making deposits, withdrawing cash, or viewing a balance, require a more reliable approach.
 This project directly addresses these challenges through a lightweight, command-line Bank Management System built to execute essential banking tasks accurately and consistently. 
 
 
