@@ -60,7 +60,7 @@ BankManagementSystem/
 1. **Get the project files.**
    Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/ADITM47/JAVA-Vithyarthiproject.git>
    cd BankManagementSystem
    ```
 
