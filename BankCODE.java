@@ -187,7 +187,7 @@ public class Bank {
 
         System.out.println("\n--- All Registered Accounts ---");
         
-        // A simple loop that counts from 0 up to the number of accounts we have.
+         // A simple loop that counts from 0 up to the number of accounts we have.
         for (int i = 0; i < accountNumbers.size(); i++) {
             System.out.println("Account Number : " + accountNumbers.get(i));
             System.out.println("Holder Name    : " + accountNames.get(i));
