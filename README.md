@@ -1,7 +1,7 @@
 ## Bank Management System
 
 
-A lightweight, terminal-based Bank Management System built entirely in Java. It allows users to register accounts, handle deposits and withdrawals, view balances, and display a list of all active accounts using a simple command-line interface—meaning no database setup or graphical interface is needed.
+A terminal-based Bank Management System built entirely in Java. It allows users to register accounts, handle deposits and withdrawals, view balances, and display a list of all active accounts using a simple command-line interface—meaning no database setup or graphical interface is needed.
 
 ## Overview
 
